@@ -12,7 +12,7 @@ opkg install python3
 opkg install python3-pip  
 #最后安装模块（缺啥安啥）
 pip install requests  
-#运行
+#运行认证程序完成认证
 python main.py
 #openwrt特殊设置  
 #将认证程序重命名为xyw.py，放入/usr文件夹下
