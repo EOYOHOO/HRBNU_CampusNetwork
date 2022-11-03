@@ -9,7 +9,7 @@ linux and openwrt使用教程
 opkg update
 #安装python
 opkg install python3  
-opkg install 	python3-pip  
+opkg install python3-pip  
 #最后安装模块（缺啥安啥）
 pip install requests  
 #运行
