@@ -254,7 +254,7 @@ def login():
             print("无错误信息")
 
 
-    ret = os.system('ping -w0.5 -n 1 www.baidu.com')
+    ret = os.system('ping -n 1 www.baidu.com')
     # if ret == 0:
     #     time_re = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
     #     print("OK,%s" % time_re)
