@@ -20,5 +20,5 @@ python main.py
 30 6 * * * python /usr/xyw.py > /dev/null
 #即可完成每天6:30分自动认证(需要先配置完成以上环境)
 ```  
-windows下客户端有亿点bug，过年回家再改
+windows下客户端有亿点bug，过年回家再改  
 鸽了 咕咕咕
